@@ -246,12 +246,6 @@ Al ingresar al sistema, encontrará un menú principal con las siguientes opcion
 3. Ingrese su contraseña actual y la nueva.  
 4. Guarde los cambios.
 
-**¿Cómo descargo reportes?**  
-1. Acceda a la sección **"Reportes"**.  
-2. Seleccione el tipo de informe.  
-3. Haga clic en **"Generar Reporte"**.  
-4. Descargue el archivo generado.
-
 **¿Cómo puedo agregar contenido local?**  
 1. Diríjase a la sección **"Gestión de Películas"**.  
 2. Haga clic en **"Agregar Película"**.  
@@ -263,14 +257,14 @@ Al ingresar al sistema, encontrará un menú principal con las siguientes opcion
 #### **9. Contacto y Soporte**  
 Si tiene problemas con la aplicación, contacte al equipo de soporte:  
 - **Correo electrónico**: soporte@cinesucre.com  
-- **Teléfono**: +123 456 7890  
+- **Teléfono**: +57 3023309780  
 
 Este manual le ayudará a familiarizarse con el uso del sistema. Para dudas adicionales, consulte con el administrador de la plataforma.
 
 ---
 
 #### **10. Tecnologías Utilizadas**  
-- **Backend**: Flask (Python).  
+- **Backend**: Framework Flask (Python).  
 - **Frontend**: HTML, CSS, JavaScript, Tailwind CSS 4.  
 - **Base de Datos**: MySQL (Flask-SQLAlchemy).  
 - **Control de Versiones**: Git/GitHub.  
