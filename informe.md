@@ -1,4 +1,5 @@
-## **🎥 Informe Técnico: Cine Sucre**
+## 🎥 **Cine Sucre: Plataforma de Streaming y Gestión de Contenidos Audiovisuales para el Departamento de Sucre**
+
 
 ### **1. 📌 Introducción**
 
